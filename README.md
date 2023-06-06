@@ -2,7 +2,7 @@
 
 Projeto de um relógio analógico moderno, bonito, dinâmicoe funcional.
 
-Construído com HTML, CSS e JavaScrit, esse é um projeto simples mas que aborda bastante técnicas avançadas de CSS.
+Construído com HTML, CSS e JavaScript, esse é um projeto simples mas que aborda bastante técnicas avançadas de CSS.
 
 Analog Clock foi construído a partir do vídeo (https://bit.ly/3oLGOvr) do canal do YouTube "Online Tutorials" (https://bit.ly/40H9R0i).
 
