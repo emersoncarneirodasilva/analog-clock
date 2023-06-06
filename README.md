@@ -1,6 +1,6 @@
 # Analog Clock
 
-Projeto de um relógio analógico moderno, bonito, dinâmicoe funcional.
+Projeto de um relógio analógico moderno, bonito, dinâmico e funcional.
 
 Construído com HTML, CSS e JavaScript, esse é um projeto simples mas que aborda bastante técnicas avançadas de CSS.
 
